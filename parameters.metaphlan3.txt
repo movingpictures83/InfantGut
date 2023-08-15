@@ -1,0 +1,4 @@
+/biorg/data/DB/CHOCOPhlAn/
+pipelines/InfantGut/samples/SRR3131704
+pipelines/InfantGut/samples/SRR3131774
+pipelines/InfantGut/samples/SRR3131796

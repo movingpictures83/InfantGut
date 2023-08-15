@@ -1,0 +1,4 @@
+Prefix pipelines/InfantGut/
+Plugin SRX2SRA inputfile srx_vanc_gent_shorter.txt outputfile none
+Plugin MetaPhlAn3 inputfile parameters.metaphlan3.txt outputfile out_abundance
+Plugin MetaPhlAnMerge inputfile out_abundance/ outputfile combined.txt
